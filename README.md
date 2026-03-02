@@ -1,3 +1,25 @@
+# Running the Project
+
+Follow the steps below to run this project on your local machine.
+-------------------------------------------------------------------
+1- Clone the Repository
+
+```bash
+git clone https://github.com/<your-username>/<your-repo>.git
+cd <your-repo>
+-------------------------------------------------------------------
+2- Install Dependencies
+
+npm install
+-------------------------------------------------------------------
+3- Start the Development Server
+
+npm run dev   # For Vite
+# or
+npm start     # For CRA
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
